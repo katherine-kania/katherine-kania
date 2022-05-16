@@ -1,19 +1,11 @@
-### Hi there 👋 
-### I'm Katherine.
+### Hi there, I'm Katherine 👋 
 ---------------------------
 Software Engineer/Developer
-
+---------------------------
 I am a software engineer, a designer, and a maker that pushes the boundaries for innovation, creativity, and accessibility. I come from 10+ years of a diverse design and architectural background which has strongly influenced my detail-oriented and user-centric approach to front-end and back-end web development. 
 
-- 🌍 I'm based in Brooklyn, NY.
-</-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: katherine.kania@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 🌍 I'm based in Brooklyn, NY
+- 📫 You can reach me at [katherine.kania@gmail.com] (katherine.kania@gmail.com)
 
 ### Skills
 
