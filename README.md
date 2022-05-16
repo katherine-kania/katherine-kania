@@ -1,5 +1,4 @@
-## Hi there 👋 </b>
-## I'm Katherine.
+## Hi there 👋 </b> I'm Katherine.
 
 Software Engineer/Developer
 ---------------------------
