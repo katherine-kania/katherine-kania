@@ -1,4 +1,4 @@
-### Hi there, I'm Katherine 👋 
+Hi there, I'm Katherine 👋 
 ---------------------------
 Software Engineer/Developer
 ---------------------------
