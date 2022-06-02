@@ -6,6 +6,7 @@ I am a software engineer, a designer, and a maker that pushes the boundaries for
 
 - 🌍 I'm based in Brooklyn, NY
 - 📫 You can reach me at [katherine.kania@gmail.com] (katherine.kania@gmail.com)
+- :monocle_face: Check out my portfolio at [katherine.codes] (https://katherine.codes/)
 
 ### Skills
 
