@@ -5,8 +5,8 @@ Hi there, I'm Katherine :smile_cat:
 I am a software engineer, a designer, and a maker that pushes the boundaries for innovation, creativity, and accessibility. I come from 10+ years of a diverse design and architectural background which has strongly influenced my detail-oriented and user-centric approach to front-end and back-end web development. 
 
 - 🌍 I'm based in Brooklyn, NY
-- 📫 You can reach me at [katherine.kania@gmail.com] (katherine.kania@gmail.com)
-- :monocle_face: Check out my portfolio at [katherine.codes] (https://katherine.codes/)
+- 📫 You can reach me at katherine.kania@gmail.com
+- :monocle_face: Check out my portfolio at katherine.codes
 
 ### Skills
 
