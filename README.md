@@ -1,6 +1,6 @@
 Hi there, I'm Katherine :smile_cat:
 ---------------------------
-### Software Engineer/ Developer
+### Web Developer + Designer
 
 I am a software engineer, a designer, and a maker that pushes the boundaries for innovation, creativity, and accessibility. I come from 10+ years of a diverse design and architectural background which has strongly influenced my detail-oriented and user-centric approach to front-end and back-end web development. 
 
